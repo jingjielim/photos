@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class PhotosController < ApplicationController
+class PhotosController < OpenReadController
   before_action :set_photo, only: %i[show update destroy]
 
   # GET /photos
