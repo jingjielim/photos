@@ -24,9 +24,9 @@ ActiveRecord::Schema.define(version: 2020_02_21_161008) do
   end
 
   create_table "photos", force: :cascade do |t|
-    t.string "site"
-    t.string "title"
-    t.string "description"
+    t.text "site"
+    t.text "title"
+    t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "user_id"

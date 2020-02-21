@@ -3,9 +3,9 @@
 class CreatePhotos < ActiveRecord::Migration[5.2]
   def change
     create_table :photos do |t|
-      t.string :site
-      t.string :title
-      t.string :description
+      t.text :site
+      t.text :title
+      t.text :description
 
       t.timestamps
     end
