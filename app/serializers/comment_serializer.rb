@@ -4,7 +4,7 @@ class CommentSerializer < ActiveModel::Serializer
   has_one :photo
 
   def owner
-    object.user.email
+    object.user.name
   end
 
 end
