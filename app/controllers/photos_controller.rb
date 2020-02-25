@@ -51,6 +51,6 @@ class PhotosController < OpenReadController
 
   # Only allow a trusted parameter "white list" through.
   def photo_params
-    params.require(:photo).permit(:site, :title, :description)
+    params.require(:photo).permit(:site, :description)
   end
 end

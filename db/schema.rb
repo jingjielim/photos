@@ -17,8 +17,8 @@ ActiveRecord::Schema.define(version: 2020_02_24_181000) do
 
   create_table "comments", force: :cascade do |t|
     t.text "content"
-    t.bigint "user_id"
-    t.bigint "photo_id"
+    t.bigint "user_id", null: false
+    t.bigint "photo_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["photo_id"], name: "index_comments_on_photo_id"
@@ -38,7 +38,7 @@ ActiveRecord::Schema.define(version: 2020_02_24_181000) do
     t.text "description"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.bigint "user_id"
+    t.bigint "user_id", null: false
     t.index ["user_id"], name: "index_photos_on_user_id"
   end
 
