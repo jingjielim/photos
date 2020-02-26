@@ -24,9 +24,8 @@
 new_string = "Myron Ward
 Shari Cummings
 Estelle Parker
-Norman Wade"
-# Mae Cruz
-# Ellis Swanson
+Norman Wade
+Ellis Swanson"
 # Clarence Rodriguez
 # Lowell Long
 # Troy Hammond
@@ -77,78 +76,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMms4DLISyiQaypux_2-5LKR
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqjjm_TSZ_WXpCZRkWDPGxcrRTDLEhX49GvU4D_UFoL0tZVW_9
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTk7JJrKvvsnSelhbhVt2RzKGKA2ff6_2Iv3ufUAwyG7Pa4zspf
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5EWjUi2Fl670WLgpFxerz2RazwDkSb78aVMbMWf-5qVeG501p
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3Yj0CntN9DD29HKJrJQFLPB3T8rWl1LIhDfDpgcFSv-LIFTSt
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwvvOjYruWTkK6KZXQJ5otkeqR0o9P-rIunrC2eCkVVXBXqmCq
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFiPZk4942__E8eM-SOXGihG0A7Nq_vvtuoL4p5V30CxdTBcuR
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjyESzwWYo3yYfIXn2rxvfsk9kG2J_88Y-wuOGkm5WSYz7N682
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz_YJc1lGLv8IRbcO0Yrn2Xx-SyYFh-UJRfoNMsHxJU7BlwIbs
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4iu8gcuPildr1ALx5MgPS9ON75CTQHLVNccHZOm7nzWlLQEBR
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGL3UvanRdCBoKjQ4HcG9H6EeV_0LleiHwLHP8l-zg5VkteZRk
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5h446Pzz5ljYNwCMFUEjUiG_6vBkpYPqXBUi0Aujyd-L5B_aE
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5lvFk3CUu9vdXUO0GnnOAz0ptY6mkxubPydPpnJ7zbmmjOkoQ
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ_U-ddFj3LO0rdMoXe1i_nBy1WnEpVetjJYcR06b0fjZl-T1f
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSP-XOpp4hkSTIghpJMYcdek3-PaoerrRqOL5kU2l6QPV-4e1fl
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV0Zdkautv5zggxl4ot6scjhoAQNS8BGKrf8zv9TTQrmp2BiF0"
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1KPZfwCoqjBUtGsUVhEz3ChuxcAJa3MQ7IsCwzC6z3dt6eyS-
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmb6Ioj0cFgUBn3Kwyc12Nys518m2B-1plxmPbUhX7Jz_peZm
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIOnyTQLMTr4HlLhNGxcfBQgR7ZsR6yEqok73pledKJ40EXD2U
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSce3r1-LzzWaiFKyaEvTYgmLJt41J9b4qVrTTys3ztoqMWt3EX
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE8PjsH7mEF7wDQBJP_HhwpEhL0grXLkeztyj15KvsK9CZ84r2
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVYQuAwHPnjYqp-PVVberg7HE5hkJVCAi5HKESdFM5eLqaQHgu
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8oCx7g5DSvukLIf9VvIsXUntYlW2mu_ax4s_FZksA8xw51nuS
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhHpqvIaGXKoP1R4gKJXgsR6baZf8bsxNPWJCdFjawG-VjIOme
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXa7APSzHhMjO7J_X-68BUDDqHdoGEQzEzUAUuDCT8Sp1WJJgJ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZZN0jdIQ7ddv3pY0nL5oVfLwF0zwbehUt0GD2oSKd950zwK55
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM9wzDesSzLiSDCTjoViH45JQRJSUav02lpzkXxwkVlRPLRbLz
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvlZmEfdPONwaJq43uhNs6hLxLxRPIom9KxKWHbTqwMXv_6LXS
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqz0s2g7BWrHSBbOmMDfaO1BA69AYscH8UbQN1QVD47puRCbxc
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYC4m0mKw3XcIT7WpR6isSyCeQ6BxHDE0nIHk_ubyJVNC0BClO
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfgOT8DkpHWV2ib_ZsSizPhI8vIQbBKPtxyFogT48nC5AVduCX
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBHkQ-2qKh_95kQeoUPoPZDqMQRaZVdBjsT4ikwREcU9CPjDiW
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVDRspWv6dYirA3aB-eaRVn0MWTwQmXkJHiy_5YJRZ2YyfaSlB
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5nJurKKeEjC7AmvgldfB636I8GZFinCxi7XoM1cmmYi9G80UW
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs1e05aHkfKxOGhxi7ffCxzvAtptfdCiU1EogK_ojb1RdYkeH7
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAHhzGKntvC6OAoUvIJmt1aHHbg48XQc0EHGuI-LvVtXssdsP2
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRI8ND8qv2KZHJu4PLIhn09YbtpUB__2ICLfekoDKh_iLD8IClc
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdECw-_SLGrrfleeXMuRYkvtNbB_YoI0KoKr0p_I3VXjzz13SQ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_IZNouFugGkyz1O8bGGF1J09WV0NBPABE247dEP2DBqD51VLz
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGmDg5GnQ1AiP1lU3ipdj03-Xi9MbtnU94zrfg5Vdw9lfxgFW
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_T-O_wRI05ItuccG6NCj9uT72F0gJR1jkQsiLkuqN-xn8sS7W
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlZqNpnc97xT7X3-FYak8-Jh5y3ZgOzhI7xRP5IddVhbpkjMio
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRN-Qk7RCe1tAa_Cy_MNiIectmoT2J5FvBYzYsCerlFFUOhKt4f
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRurtIeTkqKa8F8t50QEfgGaR9uPQhQkEyz5g-L7Os3EbEDQ_FH
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCmM6AiADQAxfyNrenn9S_XJFi6-LcL9ie_xvGSHgsLTjXN7kd
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIIzL-CWfDgotOz9YDVRA-sc6c7tZNCXI83n3JrVaYwHy2ocyQ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5SAc78i4XZHaZYGUggYqS2pO1mvRTd7iLGYTrtWWn5C5gG6I0
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_as7wwHftKbq0WC4kNEmG7u3HbbnxmUZUh3aOIXFUmzlm8t9
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFdO2eoZC_9cLxgMKKnEHofBdt9qPFEa06Re3_M2r4lHx9tJWC
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_JQATNGqj3JFIQAoaERluG7f9IDspYGL3BkVP2s_JyPmuMN9
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMTOorwqV9pzg8M63pQVDBPH-bBojNNQbpjzafepKQC5Gi4mwW
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2X6faR7iMZ-ipbsxpTGhp1wG-mfAfkI-zu93Ogn6LILwBOUQ5
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWi95xdxhsKxliu4I_v7mnp6sLqWchBs8euobH6J7lYss5GATv
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4VY8hSOUnnRrDn5-hRG-QeJPZtqNpNjRI4F_PQjJGT7DSgTSG
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc8Zd1LTCDfNGn_1leSxXXdfB6GxP5ZVOBq66twK6YQdSDUoRP
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcwguFcFKzH5DkJA1CfMl65cC1sv8g59wgBJN8X-f0utrwt9nh
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJXG22IzyTIDuUrCGU7YFPZEsPTQ0EMRNLzmyWmR8ILE0ponHJ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6UbyAzYHRPQ5oIS4frXTHlj7ZFC9fTRbnOuceEDyQN82fLkh8
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxKLynEjxPvgA5UUlRIAtNwZvF3F3R6cQ4J4rZE-WNVUpk4mp8
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl1Wvo4bpQ20lEEmmg1WihJ1vyR7sDFcT6l0kl1JQRtY5jewKX
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrGtLNztUEYlrAlY-sADlYHTGu8rMPPIvhwnD4is_fg7LFLExo
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1pUASvi-0b0uHT6pwbOfReUsxeZC47UDDrFAgf7g4xOd9-u7E
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS04SXnQaf5qIARQK7WPrjzEYXjW9Wt5uLonZPdPK5lpeqVXjhk
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUYEEJbsMHe3RSBT2XcIv_YKZFLEdb2s4baaFeAMcGyPXFq4eD
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxfihiAMViKQfS1G-tVb587PyaVC1qHhlwHDPaPxzl4bnspxfX
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqUlkCewyM4HoWLf7J0vKDFwJdT8HEMOOmqkudOkfmVqAnXhqQ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERdhS6mWMMUW2MTEuYrM9h0W-xSX-EcfeoxkU16Rx3XTDsWEs
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk_xGGpVZqSHKUB-zVnF1s7BiAxX7UcflPU0mMYh15Ti75BFb3
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBsR6HvrjZHXGiTAL9zOTmxvhjEACykt9ZvbIZB8TNPaa1uMIM
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmRtesR07qDoowvr3HHxR0brEQ70Tc3pIu2tT8WGPFPvRO8utg
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiEWIKk8fjQjr8dNrXCQ_K74di8Umavjr87g_HR2pRWGdvfA5F
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPN-NypseWPIKwIwAvaMziUMHVeAX7VBfTNyfYFap1PU7NSfPh
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR69NJ26RGEvD1GDygOLDqApwHPQMxldxHbbnmApwcW7iSH_lXd
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7sJCMrhE8Ov-01O50LD_Kz-zOwjb7RPfJLCRRMNjSIUEWUPx6
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUIxDP2gQwCUmcFXoqXK4X6-1F_BKn2uM5guaSbk5xgFj-WFY6
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVhBEnYmLXx1ZBUTJmgRFWjEfnNe5HvLJS3AeuKjIrTWRQU7_P
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3Yj0CntN9DD29HKJrJQFLPB3T8rWl1LIhDfDpgcFSv-LIFTSt"
 cats_array = new_cats.split(/\n/)
 puts "#{cats_array.length} Cats in array"
 
@@ -171,69 +99,93 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIpDKKKsG-Bvhh0uXhDAuFwV
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZGDEMx7iTgCwC1HbkNj-2Eyvjp9VU9rMDvXDixZGeSuNSZyou
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3xMhUu-2WKl45P40XSMMurki7L8Ern8eZcTUrzM_7FOD6FFYh
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiM8IcCu_TkvdfPqz-qyi_zVuLTUFaMBQCdR-q15ZNHs_fRhrL
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNeaDwUkebPPFdY-Nm8pFWbYsRVVngs_nqD3OXgPbBlYJZlGtK
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWZYJqqsXPx0i2IP-3_U1v6eNoif773uVEwvmAaorejJs9nHyx
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjWkCmIN8E0_wNEy022F5jDM7yhub4d8DUPnhhcwf1SBZO5EYD
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjuIxljh2eQl1t-A34yOrrwuGbPks3ijD8ZVsnTKl_NhCWUKNw
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRM7RbxfCucOyTwoiz_CfwCcd7VeHL_yR9HtgW6bm0KJQw_1zD8
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx0XyhhoKeVRAndIGXKwANhI8rBwlA0FRdcVEYO99VsA3wABem
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQYVg2caVJcH61TzY2Nv99au2ujjDowcS4zLCAsF_3qo3xAePb
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjSksz_ke9srpGlJi_PMfLOs2qDijfWibiyfS-TxxvavhNbfxR
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPPpI0Vsw-LJdYffxY9_OPw2igq7WqVASYZtx0VrvB3MsLbaKj
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeRkHP3ipUiMzC8HkkZm5rh9wOaDjc6V89WdKdlfwnY4Cp5vxA
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVsm1gXqNDQSRKbebra6QcPcPsGcy0HZbTeBpj9y12XBIIoKt7
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOQ5m1iknpeuEPn2wx7brvrGcT2VVcOfBF_XdrNbe9JBYH_Lg4'
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTU2OhYCZfmWe84AIab6kGXtxYe1PK4dOV21d9cnLb0ELRCOohC
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQz5st2RPRYNe2vDaeoQMBA19iO2_MCctbHi8DScyHvQVFevTR-
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjldVq0OAmhT3eNoWIrmYpMpq1MM6ZplZPMGRDvmrv4KATogPa
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpe5m8LfXKSvq_05JZ-Ao-CfmQ7oQhAqkiVtvIGL16RGnGo-02
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSX7nXnNgdbOaiaCrrRgm0dIW-W468PrwKcjUISW_tb5nae3AR_
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx3PXJ1caOZt--2zu4somcmn_eMqLoBLJYH6X_fN1BSpbh-_bF
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3qxsJY_H89VgoqEPX4q7DGcU1E3OSIJPf2zgpGofooybTv-49
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQHAgPu-zM89gEjvX3bTeqwOUDH7XRwHMWVsjQrapYttzFykFs
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyWb8Ui8ABtkjer388qv26r8gfvyN7VoPWg1oJfIYfL5yYZOjv
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmtVHgGNoSj5DSGV1SZ2RLNOtehTWJXUg5GBP4TjfbsAn9w0Mp
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSohFTBxq8FPR8n6Re9G0nlq_wFSLbE63y_9klp1Oo4MomkGvhT
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKCup6zKeAr_bV0cl64qeJ2caelEj8kOvoUe6WE9EtKGumuY9I
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcs_HZKt2OjAlSBKUIMB-Y6fnimZGqPvmss-D5JlPoD5ZLeHFn
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgfxGfCE_joMowB2cNrNasjMS-OK7xCxacAOGSuS2H-Nt78NiY
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9oW8fjPcUlhFR8lCw8gHR0Gy94s7p13pC5-9JF2eFP43watpf
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRATvV2mL0wWqhpNXmsZtbsT4Zi8ElvfrE52Wvifx2C6N4P-M2S
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwvNACSCAypQDx72lPYr5KzPw4P0qJ4iV9C0rCbDX5gkOSVG1E
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoQz12z_ljkMHicoyu_Nlx48yyLePIYW-ew-FA7mbsmkpCGrw9
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT19ONXAmwhvIEQ15ezgl3SpBq8CjPoGdKJ_sktT8TaOleY93m7
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQalxC54oF7fRYdR05gDDtIl-e5z_t-H6xtl8PYLLyIPaUPY56Q
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYvwXiGP-fOyYzgwJIhmHUboA9ysOZcg4_ifSIu3evKGzZGkie
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4vwEu9KgJSaKon2CKmf0xT8EaqE7_usxJn_tiPw2_9JnBhX-n
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoHet2kDQVVOJM0qx3TQFmNzY4UoHkDNPF9bRyhyBVAztPc_t3
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHG8PLFZYnverm6ypxZ5k7IsYN93WwwP2yw-_lV_Uv_zIKBJBL
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSShu0M8UzbOxP3I2bztR-ZA_M7O13JewO4p1o5lfCceHiZ9bCZ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCgjcARYVNwuE7BhYCgJiDslRcWnGosLL2VihjaBDJYDCqaaPI
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSPZrn1f3J5sc6Q42AP1o6Blf4m_cxuyWOqZ6YGcEpNRc3KcTC
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaIHtLR-6LcD1aHXx51BqhifDGWODFZRtORY3SQ-1xKciPTUV_
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTH149yLgv-njlgk0v_mCkVnK3eBVQyeI9RkqQBY6kaCS-qqGFV
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOT9ZQTrhQOGrjQcAGuhUcrtx5TxlvxscDru9insvnd7FFQGc1
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRimObSlg9WSSH6rkFKq8MzY_u5V_oO8P-Iq5YhubHv1TzV3DtK
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR90bAiLESXy35qxQYiWUWYLhst43y62uwNxd1qukZB-v4i2khJ
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSb73kLRA3I7yEr6VYKeg9JFO9sPIWpz7lz-Kd3OnnVMnP0wX5P
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFF1gMTux7DYUlGrGdVvZS_7LGI6KmjcouBxQhiNF9kK0J1hai
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkTx5VuNDyr2nvriW8TsBd3mGwoERs3YdIMSKipNPMjQHo6NSA
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQA0U4x3A3mezUJmgsh4VmBfL4hHVLtks-JCh6nqHPQ88CAA_Ke
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnyXyOf8b3suWp07Rnff8TLoobEPS0kHy1YBQtqrHxzE8oaCBu
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNv3_WBCjQtbBVVowl4I7LXu-iOeobUG_KJQACkWZEsrRuWHVD
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnZmw2uf7VX-DrZ2HgJd-fCZT4dVIaSoTMe7wIPAEAF3NBqMcr
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0qNIC29VND2rq-VDP5fNRFUdquD7TvnGdgnL6RvwCfWjQTd6Y
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPAF-TZESTxdb-xldJlbe4eWo51TQfHws5T3XUYqSbWepJoDID
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjWpLbe38RkbIwHWfH7S0fyAu3ybJfeqQIR63ktjak543tPMMl
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzabFGztUGhhf6s7-zqGupCaf4basPEtn8pw1lyutdxZ7huCIs
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRo5WGS0MoZK8TODXldkPpiBMnFDj1f48sC2mEi8x-Ve8kG84xq
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3oPD-k0YngVKe3IKdWxi8yaqp0DofAPTssWgmU2-J9tIjHdCN
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbEGs6zpv0R7CPR_YD7D2cea0LhPMCxXZDAdj_IMKW8435bMFU
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_azbvLdf-Qg5XCrIi4XChiCHJ7UxLU39Ar74IC2L2CA_pHW51
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC9JR0ujnjFN5nFeUOVTLbeV8iuDtq0Bc4OhKCu56UIC4gqbsY
-# https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2wDHuqmQgIcPmFdDiOwsVY1jB9WHaVobww11JfgpODhgISCNn'
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNeaDwUkebPPFdY-Nm8pFWbYsRVVngs_nqD3OXgPbBlYJZlGtK'
 dogs_array = new_dogs.split(/\n/)
 puts "#{dogs_array.length} Dogs in array"
+
+new_birds = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBTUdVZvKodJgsvck6BPz9lvFuvJn-wJFwONgc-od_v3FgEvrA
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhCgXHmsikAg5xZ2OS9Fg5qca6u4L4JFQVEIlt_cIRghW82phG
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZPtSu8O05Sudcjc8_iPPghWL706ZnrwOOjsXi45wdjhulTB0c
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5ota-tjsM9MZfySZmhiv3ZMDHg56ZTNCSurW68ud_3eEFpg9l
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjrrrIoQ1zZYtj5agbcfTWhi8uMyq_Q-AXP6aQ05FzE6C5XXuL
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4vcnpPP1XxDXNYjPoRdsbQNbGAA6jv0cHNd1dgbFZLJxLooLG
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLGLFTnhtTwQm1y1AGMGanv23XEwEqMkeNThDzHgkNPpXjnEFn
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmbq412NltCKJDD8HfoqBe-kqjRn8mwQdoLM3YRBZROV9Lf8H6
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkS4YzTc_Jn0_m0Y4T908AX1zcyEJ6RmYGGHszT5xbOzA42zQP
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCwoS5Das0FWVL59aLVlwEfm-_V_RI24NH8x39ZobmNm2RJoll
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSowAqnKn4L8TIlFerbGb1l05-84hurayTn_rcMhX0dUTxojr7S
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtT2TDQHUjvytMhMoViDNfXPGlDGk5Ssfar18vF0ND1co2YtBg
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO3DdRuyfCJEpublgsNLMEObaapsy8r_FjgE3S36UHdOQxafet
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbyUfcmGYstIBdpmXM11xU94NVWDCC3GVJ8WXCP3AElydwLvWf
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTj16w2SN_wWKZFCfroNvxCkPL49msuwP5SwCR2-q3_iL986qG
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz8O13xLXFxLq_EK30twrdiqf4HQz90vRv5RZnM8L0P84EMFrt
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB-FUTzvEzXHMFYXr0C-_45NJxoIJ1fyrU9_SSIJEb0XypPD8k
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRL63C2rqxk9wdSgEYCmzeRwDM398q-ZoO7ZoVlYWdVJt_kHcNt
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTII_7iK7zPCIacowfWxlmB6U11SqOlastkIa114rIGR-PA9rmo
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPB_Bgx4Kwjl5QA---cQa8VeuHvv6nWsSw_6NzYtmhbVBgkgCg
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKe3gDgnu4gLuvYtL-9s7AwZo6kv8soUArJDVKRthofH2igPAY
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0mjWyUMk7VMbDBcXoEoxMZKrjwkgYjgIelU1kXEzhq1e-hFAB
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOuWT-tR06ozLP7LskLcBzw65stAx3YIyx1vUa98LCxreWgk9b
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREm_i_Ex-aat9yBYXWCmAacJmi2z-QcDjxNYUwHmGpY1saU6Io
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjn2pJQTdE50Dn2nZVNU2A6uuK_R3jxpCHrqFZ6onXoBckjHGJ'
+birds_array = new_birds.split(/\n/)
+puts "#{birds_array.length} Birds in array"
+
+new_landscape = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRovccZac6p6olxOg6wHwk1927_ksOKvigcY00OUwXaofJoxfYl
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRghgUPSj2kcfDKG4TXMbrYAAjsiP_Pjdlicae0k3u2-ovbna5e
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqye9u_hT2f_muVJYsFDVNZ2jh8K3aylzB6c_Ae4tDXUCIyGIl
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1gIgCHXBCZ2ti8p-XLH8A6Qj3u12C3emJEA7vFnDa6r3pFnB
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRX9fJOoiN-zqLv69vROb3FxraTR8WI_WJP0pe-pz9X9FtYkko_
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReuUmYMQFOOFPKjTnDEt_qhoEVtgxhEaLJpP5HZ4_vb0ji7bXt
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPd8pTrDScz4zqTMNLNl0PXQ77WU-0J5p_epjgPV56qvgvjrM9
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdj99DKiAn2rSZI0q8l9RPL-mgWBDRtmQPU5N8xQNVyFGG7SVQ
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbmGBNp9qVWpfFOZDNLEoifu08_OfccLA9Mr0L1ElEBYafnHnp
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAPeV88aU09HGgSi3UAEINrqDZ-MxqY3J1F7Hn_xP7rptADjW6
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkFew1e7gwc7B0QqwbWfeirqX2V5u7l8TalmLXyzFfYrj_NcjS
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRModi-ISRfTd8i_V00oosrgruT5RNYhAno8BqH8SundUFXT8ZY
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRU5U8eRhc_QcNZ9-OqQo3nJ5E44ExflvXbbFt099VqA5H-lkQK
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNQr5_scT7yPWb_m6Gn6SmPJLZzxV7OWlZ_brKGpLEsNXpDsap
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvnKDUrypkNJrpkaB2pDuRkbRTDulJwgwDx3Ht8sraKQigeqqO
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmlypphzFPtI08f-_QnG-M-KCQKs6R4FABwAlOJsMmUlvYiTHQ
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWJ3Chwhix2Uf28uW4JqkrYGCMIWSmy6tHxYlwvqJrqlBk6c5H
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLTTzRipEyykvRZWixdYRHNEHAr35xGu4CNz2VZoduohuWlAP8
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRg5hONvk2Yi5--E2JJSkx3v2uHgMUFuqK-QkvpefjUTqa3-41W
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-1EH3-Tv2LQyVStd6iC9gevihvcyBpJnATQDlZa7eapVO8HhR
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvNa3BpzZtR9f1ylvp7bRPxhNeYG5520QjM38I6I7fQ51WiXm9
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoH_PsnFZblHMT3iT_Q10NkOHcKpL6716lX48Tm1NvHiOInNTo
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKrKaGAHxP3fCCg1ZwkxiAS-BMI3k4iRrkEXu4CHECBL19-GVp
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1zbhzFn96zbWFMu2Fo1uCDOV_PnXtRrt35KwdusqWoVC2_dXW
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx9Cv0a3gvcTvdwr_hKHO76GlZg0xnjGp8Qduov9ulkHh4hVht'
+landscape_array = new_landscape.split(/\n/)
+puts "#{landscape_array.length} landscape in array"
+
+new_quotes = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiPI1X3i25n4afjBlxOzqsgTns-nmlv9-Ses6pAthYumc6P8Wn
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1ab4Hr0oZowAdRSBjfDZ2JQCOwp8Ir58JYsa5e1rFc67vIX-A
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE9eXJOGrXp-BscAQXnRcc3AndmHK604sYML2wk3FlWo7oRPz7
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiW9BMpCVZxUyHdl5uolLHjYZqgAwEy7uQ2QgjWf3Fv-6VSlPf
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUQHTfrmdca3q3xzxmg_u69M7en0shMKeAUACJuRdYwGnmqT3m
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBE8CQnQGpsNtgufMpbmq5g0IdbwYdC7B1p3QrQZkCffr3rjC0
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEFEQyD_gwkJdcY1orthMlo_rBe2oYSS6fLty9OSQfNumjbyKP
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxhznwWyZJHfWme-D1Cd_4lyFmuNIADfE9140MnwKWBxBkh0PG
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXyC6X6-WMp2juOwfZPNqIhYAe6ulz_4ScwGuj-UNBGwyyDcoW
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD6ehd7NY7VTsDzSL2zUxSSRhsl1fHEwAisaUj76Dhxba8tuzo
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRmxXOi-DBeMnUyZr5zBGpKo_pTCRQaQYLq4wQG7HYGLkEa1k-
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2A6VcPflleASOxSKEckH_fvCqQexOrDe3PLIarqkkddhJa8Hz
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_0Vi-gKKiuIpse71Qn7Vu40eB5YSlS7qTXrGt9OsxdbItN0qk
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRdrWRGQMGjWufRvs1qPOI1l2IibgQCPLF2vb9Dd5FO2T3q_YX
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROL_UqcoUAvuMhsx2pg_N7Sbo0WsDgyvBjjFyH_UHVYNb8P21J
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWSqUO4lPiY8u1wbmgUvizAr7SQ7eTTYVJch5ErrYpT1A8Lxhp
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTltnqMLp_H_1T1hsLVnUQ2g6uhQMh5e1XJDsxbeJXaFWLf-RKV
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkUhHtV2jU4J8naqc5XDAZ7zPZCUCCJUIVJTQgT_arNtdSPCdW
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTm9PhpMzu73UPL362qIRev0pqg5biLiz-LOckC3Ha3ewVS2nyX
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVANw6PWdOvXvo-iaqqeT7f32b0mKTfskMERVa5U-oiNuw-ZcH
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQy2Y9OWXbcEs5mtq1njxP4cGsdZxngBikdAtCYe0ourprNK0U6
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuWq2wZfkfL47sHk8eYiamJrUHmlyI_WvA5Uik8ue-T0r0m5rP
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDdZ1qkWjmlSm6Bvj1B_BnRvrMPkgrYqxylDTwjGLQ5Pzmf6Q
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSi4CWc0iYpP9WAiKJuZTv-nKL3OMzgysN-8RwUUAiVWsVbjkEw
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ54uZCOn4itorQ7Rzn46YalLLaANQXaldN5dCo2Y9pC2Qz5wJd'
+quotes_array = new_quotes.split(/\n/)
+puts "#{quotes_array.length} Quotes in array"
 
 users_array.each do |user|
   User.create(
@@ -246,24 +198,98 @@ end
 
 puts 'Users created'
 
-cats_array.each do |catsite|
-  id = rand(1..4)
+cat_description = [
+  'Hide when guests come over. Meow lick butt and make a weird face fall asleep on the washing machine get my claw stuck in the dog\'s ear for you have cat to be kitten me right meow for kitty poochy.',
+  'Attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor',
+  'Get suspicious of own shadow then go play with toilette paper scratch at the door then walk away',
+  'Scream for no reason at 4 am my left donut is missing, as is my right. Claws in the eye of the beholder purr eat owner\'s food so open the door, let me out, let me out, let me-out, let me-aow, let meaow, meaow! lick plastic bags. Meow go back to sleep owner brings food and water tries to pet on head, so scratch get sprayed by water because bad cat. Poop in a handbag look delicious and drink the soapy mopping up water then puke giant foamy fur-balls.',
+  'Ccccccccccccaaaaaaaaaaaaaaatttttttttttttttttssssssssssssssss ',
+  'Look at dog hiiiiiisssss scamper disappear for four days and return home with an expensive injury',
+  'Plop down in the middle where everybody walks step on your keyboard while you\'re gaming and then turn in a circle for leave fur on owners clothes munch on tasty moths cat snacks.',
+  'Sit by the fire rub face on owner, a nice warm laptop for me to sit on stand with legs in litter box, but poop outside munch, munch, chomp, chomp meow. Refuse to drink water except out of someone\'s glass wack the mini furry mouse'
+]
+
+cats_array.each do |site|
+  rand_num = rand(cat_description.length - 1)
+  id = rand(1..2)
   user1 = User.find(id)
   photo1 = user1.photos.build(
-    site: catsite,
-    description: 'Meow'
+    site: site,
+    description: cat_description[rand_num]
   )
   photo1.save
 end
 
 puts 'Cat photos added'
+dog_description = [
+  'Doggo ipsum heckin good boys mlem you are doing me the shock wrinkler pupper shoob doge, heckin wow such tempt he made many woofs heck h*ck.',
+  'Extremely cuuuuuute smol borking doggo with a long snoot for pats ruff the neighborhood pupper wow such tempt doing me a frighten doggorino ur givin me a spook, doing me a frighten length boy heckin corgo long woofer.',
+  'Very hand that feed shibe very jealous pupper borking doggo adorable doggo long woofer, pats shibe the neighborhood pupper.',
+  'Fat boi puggo heckin good boys and girls lotsa pats, length boy.',
+  'Wow such tempt heckin angery woofer aqua doggo doggorino fat boi most angery pupper I have ever seen stop it fren, pupper smol borking doggo with a long snoot for pats much ruin diet what a nice floof heck. dat tungg tho heckin angery woofer.',
+  'Long bois very hand that feed shibe wrinkler wow very biscit, long bois aqua doggo. shoober woofer. wow very biscit.',
+  'Corgo woofer pats long bois waggy wags, pats shibe. Very jealous pupper snoot borkf he made many woofs aqua doggo super chub, heckin angery woofer very taste wow bork.'
+]
 
 dogs_array.each do |site|
+  rand_num = rand(dog_description.length - 1)
+  id = rand(3..5)
+  user1 = User.find(id)
+  photo1 = user1.photos.build(
+    site: site,
+    description: dog_description[rand_num]
+  )
+  photo1.save
+end
+
+puts 'Dog photos added'
+
+description = [
+'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+'Imperdiet massa tincidunt nunc pulvinar sapien et ligula.',
+'Tristique magna sit amet purus gravida quis blandit.',
+'Ac auctor augue mauris augue neque gravida in fermentum.',
+'Morbi blandit cursus risus at ultrices mi tempus. Purus sit amet luctus venenatis lectus magna fringilla urna. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Nisl vel pretium lectus quam id leo in vitae. Eros in cursus turpis massa tincidunt dui ut ornare. Vel risus commodo viverra maecenas accumsan lacus. Tempor nec feugiat nisl pretium.',
+'Eu turpis egestas pretium aenean.',
+'Enim facilisis gravida neque convallis a cras semper.Velit dignissim sodales ut eu sem integer vitae justo.',
+'Sit amet venenatis urna cursus eget nunc scelerisque viverra. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget.',
+'Nulla aliquet enim tortor at auctor urna nunc. Adipiscing vitae proin sagittis nisl. Interdum velit laoreet id donec ultrices tincidunt arcu.',
+'Viverra orci sagittis eu volutpat odio. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi.'
+]
+
+birds_array.each do |site|
+  rand_num = rand(description.length - 1)
+  id = rand(5..6)
+  user1 = User.find(id)
+  photo1 = user1.photos.build(
+    site: site,
+    description: description[rand_num]
+  )
+  photo1.save
+end
+
+puts 'Birds photos added'
+
+landscape_array.each do |site|
+  rand_num = rand(description.length - 1)
+  id = rand(6..8)
+  user1 = User.find(id)
+  photo1 = user1.photos.build(
+    site: site,
+    description: description[rand_num]
+  )
+  photo1.save
+end
+
+puts 'Landscape photos added'
+
+quotes_array.each do |site|
+  rand_num = rand(description.length - 1)
   id = rand(5..8)
   user1 = User.find(id)
   photo1 = user1.photos.build(
     site: site,
-    description: 'Ruff'
+    description: description[rand_num]
   )
   photo1.save
 end
@@ -279,7 +305,7 @@ random_comments = [
   'et dolore magna aliqua'
 ]
 
-num_comments = 100
+num_comments = 200
 1.upto(num_comments) do
   rand_num = rand(random_comments.length - 1)
   photo_id = rand(1..Photo.last.id)
@@ -289,6 +315,12 @@ num_comments = 100
   comment1.save
 end
 
-user1 = User.find(1)
-like1 = user1.likes.build(photo_id: '1')
-like1.save
+1.upto(User.all.length) do |num|
+  photos_array = (1..Photo.all.length).to_a.shuffle
+  user1 = User.find(num)
+  1.upto(photos_array.length/2) do
+    photo_id = photos_array.pop
+    like1 = user1.likes.build(photo_id: photo_id)
+    like1.save
+  end
+end
