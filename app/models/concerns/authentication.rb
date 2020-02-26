@@ -16,6 +16,7 @@ module Authentication
     has_secure_password
     before_create :set_token
     after_find :fix_up_token
+    validates :name, uniqueness: { message: 'has already been taken' }
     validates :email, uniqueness: true
     validates :email, presence: true
     validates :password_confirmation, presence: true, on: :create
