@@ -2,6 +2,10 @@
 
 This API is used by the [Lytfill App](https://github.com/jingjielim/photos-app).
 
+## Entity Relationship Diagram
+
+![ERD](https://i.imgur.com/ewpD2BB.jpg)
+
 ## Authentication
 
 Authentication consists of Sign Up, Sign In, Change Password, and Sign Out. As this section comes from the template, cURL scripts were set up to test the API with dummy data.
