@@ -77,6 +77,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqjjm_TSZ_WXpCZRkWDPGxcr
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTk7JJrKvvsnSelhbhVt2RzKGKA2ff6_2Iv3ufUAwyG7Pa4zspf
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5EWjUi2Fl670WLgpFxerz2RazwDkSb78aVMbMWf-5qVeG501p
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3Yj0CntN9DD29HKJrJQFLPB3T8rWl1LIhDfDpgcFSv-LIFTSt"
+
 cats_array = new_cats.split(/\n/)
 puts "#{cats_array.length} Cats in array"
 
@@ -100,6 +101,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZGDEMx7iTgCwC1HbkNj-2Ey
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3xMhUu-2WKl45P40XSMMurki7L8Ern8eZcTUrzM_7FOD6FFYh
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiM8IcCu_TkvdfPqz-qyi_zVuLTUFaMBQCdR-q15ZNHs_fRhrL
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNeaDwUkebPPFdY-Nm8pFWbYsRVVngs_nqD3OXgPbBlYJZlGtK'
+
 dogs_array = new_dogs.split(/\n/)
 puts "#{dogs_array.length} Dogs in array"
 

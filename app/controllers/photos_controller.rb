@@ -1,13 +1,18 @@
 # frozen_string_literal: true
 
 class PhotosController < OpenReadController
+  include Pagy::Backend
   before_action :set_photo, only: %i[update destroy]
 
   # GET /photos
   def index
-    @photos = Photo.all
+    @pagy, @records = pagy(Photo.all.reverse_order)
+    # @photos = Photo.all.reverse_order
 
-    render json: @photos
+    render json: {
+      data: @records,
+      pagy: pagy_metadata(@pagy)
+    }
   end
 
   # GET /photos/1
