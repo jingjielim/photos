@@ -6,12 +6,14 @@ class PhotosController < OpenReadController
 
   # GET /photos
   def index
-    @pagy, @records = pagy(Photo.all.reverse_order)
-    # @photos = Photo.all.reverse_order
+    pagy, records = pagy(Photo.all.reverse_order)
 
-    render json: {
-      data: @records,
-      pagy: pagy_metadata(@pagy)
+    render json: records, meta: {
+      current_page: pagy.page,
+      next_page: pagy.next,
+      prev_page: pagy.prev,
+      total_pages: pagy.pages,
+      total_count: pagy.count
     }
   end
 
