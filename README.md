@@ -2,6 +2,14 @@
 
 This API is used by the [Lytfill App](https://github.com/jingjielim/photos-app).
 
+## Dependencies
+- [Pagy](https://ddnexus.github.io/pagy/) for pagination
+
+## Setup
+- Fork and clone this repo
+- Go to local repo
+- Run `bundle install`
+
 ## Entity Relationship Diagram
 
 ![ERD](https://i.imgur.com/ewpD2BB.jpg)
