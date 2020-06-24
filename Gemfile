@@ -30,3 +30,5 @@ end
 group :production do
   gem 'rails_12factor', '~> 0.0.3'
 end
+
+gem "aws-sdk-s3", "~> 1.65"

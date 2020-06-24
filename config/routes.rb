@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
+  get 's3/direct_post'
   resources :likes, except: %i[new edit]
   resources :comments, except: %i[new edit]
   resources :photos, except: %i[new edit]
